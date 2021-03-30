@@ -5,11 +5,6 @@ body{
 	text-transform: uppercase;
 }
 
-*,
-*:before,
-*:after {
-	box-sizing: border-box;
-}
 
 :focus,
 :active {
